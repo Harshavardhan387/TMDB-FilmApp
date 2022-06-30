@@ -1,0 +1,43 @@
+.card-title{
+    color: white;
+    height: 8%;
+    width: 70%;
+}
+.card-btn{
+    position: relative;
+    margin-left: 10rem;
+    background-image: linear-gradient(to bottom right, #FF9966, #FF5E62);
+
+}
+.main-card{
+    margin:1rem;
+
+}
+
+.modal-main{
+    width: 100%;
+    background-color: rgb(34, 29, 29);
+}
+.modal-title{
+    height: 25px;
+
+
+}
+.modal-body{
+    background-color: rgb(34, 29, 29);
+}
+.modal-body img{
+    margin: 0.5rem 7rem;
+}
+.modal-body img, h3,h4, h5, p{
+    background-color: rgb(34, 29, 29);
+    color: white;
+    text-align: center;
+}
+.modal-footer{
+    background-color: rgb(34, 29, 29);
+}
+.modal-footer Button{
+    background-color: darkslateblue;
+}
+
