@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/SketchBrahma-App/static/css/main.ebb2fd81.css",
-    "main.js": "/SketchBrahma-App/static/js/main.d28214a1.js",
-    "static/media/wallpaperflare.png": "/SketchBrahma-App/static/media/wallpaperflare.8b35efb05866a51e6a61.png",
-    "index.html": "/SketchBrahma-App/index.html",
-    "main.ebb2fd81.css.map": "/SketchBrahma-App/static/css/main.ebb2fd81.css.map",
-    "main.d28214a1.js.map": "/SketchBrahma-App/static/js/main.d28214a1.js.map"
+    "main.css": "/TMDB-FilmApp/static/css/main.ebb2fd81.css",
+    "main.js": "/TMDB-FilmApp/static/js/main.ecda35cc.js",
+    "static/media/wallpaperflare.png": "/TMDB-FilmApp/static/media/wallpaperflare.8b35efb05866a51e6a61.png",
+    "index.html": "/TMDB-FilmApp/index.html",
+    "main.ebb2fd81.css.map": "/TMDB-FilmApp/static/css/main.ebb2fd81.css.map",
+    "main.ecda35cc.js.map": "/TMDB-FilmApp/static/js/main.ecda35cc.js.map"
   },
   "entrypoints": [
     "static/css/main.ebb2fd81.css",
-    "static/js/main.d28214a1.js"
+    "static/js/main.ecda35cc.js"
   ]
 }
