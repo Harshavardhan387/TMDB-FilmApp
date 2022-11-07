@@ -141,6 +141,7 @@ function App() {
           alt="main-img"
           width="100%"
           height="auto"
+          loading="lazy"
         />
       </div>
       <div className="trending">
